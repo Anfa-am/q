@@ -1,0 +1,14 @@
+10System:    10Host anfa-xps 10Kernel 4.19.99-1-MANJARO x86_64 10bits 64 10Desktop i3 4.17.1 
+           10Distro Manjaro Linux 
+10Machine:   10Type Laptop 10System Dell 10product XPS 13 9343 10v 01 10serial <filter> 
+           10Mobo Dell 10model 0TRX4F 10v A00 10serial <filter> 10UEFI Dell 10v A03 10date 03/25/2015 
+10Battery:   10ID-1 BAT0 10charge 18.0 Wh 10condition 30.8/52.7 Wh (59%) 
+10CPU:       10Dual Core Intel Core i5-5200U 10type MT MCP 10speed 2494 MHz 
+10Graphics:  10Device-1 Intel HD Graphics 5500 10driver i915 10v kernel 
+           10Display x11 10server X.Org 1.20.7 10driver intel 10unloaded modesetting 
+           10resolution 1920x1080~60Hz 
+           10OpenGL 10renderer Mesa DRI Intel HD Graphics 5500 (Broadwell GT2) 10v 4.6 Mesa 19.3.2 
+10Network:   10Device-1 Broadcom and subsidiaries BCM4352 802.11ac Wireless Network Adapter 10driver wl 
+10Drives:    10Local Storage 10total 119.24 GiB 10used 52.81 GiB (44.3%) 
+10Info:      10Processes 199 10Uptime 2d 20h 40m 10Memory 3.76 GiB 10used 2.75 GiB (73.2%) 
+           10Client shell wrapper 10inxi 3.0.37 

@@ -1,0 +1,41 @@
+{
+    "intents": [
+        {
+            "tag": "conversate.greet",
+            "patterns": ["Hi", "Hello", "Hey!", "Yo", "Suh"]
+        }, {
+            "tag": "conversate.inquire.general",
+            "patterns": ["What's up?", "What's good?", "What's new?", "What's happening?", "What's the latest?"]
+        }, {
+            "tag": "conversate.inquire.personal",
+            "patterns": ["How are you?", "How you doing?", "What about you?", "What about yourself?", "and how about you?"]
+        }, {
+            "tag": "conversate.recive.general",
+            "patterns": ["Nothing much", "Nothin", "Pretty good", "Can't complain","The usual", "Same old same old"]
+        }, {
+            "tag": "conversate.recive.personal",
+            "patterns": ["I'm going to the movies tonight", "Thinking about staying in, not feeling great", "Going out for dinner with some friends later", "Playing volleyball with the neighbouhrs at Noon", "Beach day today!", "It's my Sisters birthday today!"]
+        }, {
+            "tag": "conversate.goodbye",
+            "patterns": ["Bye", "I'll see you later", "Goodbye", "Peace out","See ya", "Take care"]
+        }, {
+            "tag": "conversate.confirm",
+            "patterns": ["Ok, sounds good", "Perfect thanks", "Go for it" , "Yes", "Nice"," Yeah, let's do it", "Alright", "Run it" ,"yup", "sure", "start"]
+        }, {
+            "tag": "conversate.decline",
+            "patterns": ["Nope", "No, don't do that", "No thanks", "Nevermind", "Forget about it", "I don't care", "Scrach that", "Negative on that"]
+        }, {
+            "tag": "weather",
+            "patterns": ["What's the weather today?", "What's it like out side?", "Do I need a jacket?" , "Is it cold today?", "Will it be raining when I have to leave?"]
+        }, {
+            "tag": "sports.get",
+            "patterns": ["Did the bucks beat Toronto?", "What's the score? ", "When's the Knicks game start?"]
+        }, {
+            "tag": "sports.play",
+            "patterns": ["Can you put the game on?", "Play the Raptors game", "Can you play the ball game?" ]
+        }, {
+            "tag": "local",
+            "patterns": ["Send it to my phone.", "Can you open this on my laptop?", "Play this on the tv."]
+        }
+    ]
+}

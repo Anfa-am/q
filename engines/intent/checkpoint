@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/anfa/Projects/q/intent-model.tflearn"
+all_model_checkpoint_paths: "/home/anfa/Projects/q/intent-model.tflearn"
